@@ -2017,7 +2017,7 @@
         "affectsGlobalScope": false
       },
       "./src/services/token.service.ts": {
-        "version": "fbfe3edd29ad6d76ba7ede9a3eb3aa83e0a8127d5f0bfc5ed402c1cfb8104264",
+        "version": "950f691a3ae7d8a459fe258abc606a03024f9ea6f4432bd2ae067d4d02831d97",
         "signature": "7dad33185857b3b63dab72fb0299aa6bf26790c68e13adec4261017bcf0cbee4",
         "affectsGlobalScope": false
       },
@@ -2092,7 +2092,7 @@
         "affectsGlobalScope": true
       },
       "./src/controllers/user.controller.ts": {
-        "version": "234c6c541f0c6696944cd705954e91d4b2d8c9f52da05626ea1fd6cbdb4f5b4e",
+        "version": "103cb020bfd6b3358f79ca1cf51241d6e26314d764c767031f08e7d60817384c",
         "signature": "2afc532d86e5c51b2f8ec8938dd6aef19d730fb63a56084ed2bd123ddd2c5174",
         "affectsGlobalScope": false
       },

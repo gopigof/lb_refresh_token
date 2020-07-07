@@ -31,7 +31,7 @@ export class NewUserRequest extends User {
 
 const TokenSchema = {
   type: 'object',
-  required: ['token', 'refreshToken']
+  required: ['token']
 }
 
 export const TokensRequestBody = {

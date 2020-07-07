@@ -29,7 +29,7 @@ NewUserRequest = tslib_1.__decorate([
 exports.NewUserRequest = NewUserRequest;
 const TokenSchema = {
     type: 'object',
-    required: ['token', 'refreshToken']
+    required: ['token']
 };
 exports.TokensRequestBody = {
     description: 'The input of refreshing tokens function',

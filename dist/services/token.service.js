@@ -126,7 +126,6 @@ let JWTService = class JWTService {
         catch (error) {
             throw new rest_1.HttpErrors.Unauthorized(`Error encoding token : ${error}`);
         }
-        console.log("!" + refreshToken);
         return {
             token: token,
             refreshToken: refreshToken
