@@ -1,0 +1,25 @@
+{
+  "ids": {
+    "Todo": 5,
+    "User": 7,
+    "UserCredentials": 4
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}"
+    },
+    "User": {
+      "4": "{\"username\":\"testuser1\",\"email\":\"testuser1@abc.com\",\"id\":4}",
+      "103d5910-4fa8-4255-9f83-caa9c26ef3c7": "{\"id\":\"103d5910-4fa8-4255-9f83-caa9c26ef3c7\",\"email\":\"testing@gmail.com\"}",
+      "06fb16c6-4ebd-468c-98e2-47c05227b790": "{\"id\":\"06fb16c6-4ebd-468c-98e2-47c05227b790\",\"email\":\"testing@gmail.com\"}"
+    },
+    "UserCredentials": {
+      "1": "{\"password\":\"$2a$10$QrcA7GDOZ06TTXEBhuz87On8mcapb9qoU3rjWb7Z5pwBv7ZAbmXwa\",\"userId\":4,\"id\":1}",
+      "798e5fe8-b75e-4674-8c5c-2c16a3ab58f8": "{\"id\":\"798e5fe8-b75e-4674-8c5c-2c16a3ab58f8\",\"password\":\"$2a$10$cxhL8ZccWmyikH8f4Fz/COY5UaxvPh/iILsq5BjxFAGUWbCLg5QEC\",\"userId\":\"103d5910-4fa8-4255-9f83-caa9c26ef3c7\"}",
+      "e901fb1a-50e4-49cd-b0ee-fc8cff47d02a": "{\"id\":\"e901fb1a-50e4-49cd-b0ee-fc8cff47d02a\",\"password\":\"$2a$10$YFE8mGa3caZVCtoMh9H91OIjhcb9taaBylBGocWYUuGwMc/cMEvxS\",\"userId\":\"06fb16c6-4ebd-468c-98e2-47c05227b790\"}"
+    }
+  }
+}
